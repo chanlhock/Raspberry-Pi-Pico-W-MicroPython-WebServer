@@ -46,6 +46,7 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
  <img src="resource/webbrowser.png" width="500">
 </p>
 11. Functions & Features are:
+
 ~~~~
 LED ON - Turn Pico W board LED ON
 LED OFF - Turn Pico W board LED OFF
