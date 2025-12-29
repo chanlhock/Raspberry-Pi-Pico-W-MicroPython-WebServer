@@ -16,11 +16,11 @@
 Simple Raspberry Pi Poco W web server using MicroPython on Thonny
 
 ## :computer: Development Platform
-Program is coded for Raspberry Pi Pico W using MicroPython and run on Thonny.
+Program is coded on Thonny using MicroPython.
 
 ## :iphone: Platform tested:
 I have tested my code on:
-- Raspberry Pi Pico W on Thonny
+- Raspberry Pi Pico W and a web browser (Chrome, Firefox,Safari)
 
 ## :coffee: Buy Me a Coffee
 If you appreciate my work, do support me by...<br>
