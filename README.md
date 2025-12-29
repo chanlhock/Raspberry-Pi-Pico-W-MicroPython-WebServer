@@ -1,5 +1,9 @@
 # :mouse: Welcome to Raspberry-Pi-Pico-W-MicroPython-WebServer
 
+<p float="left">
+ <img src="app/src/main/res/drawable/animated_logo.gif" width="400">
+</p>
+
 ## Table of Contents
 - [Description](#scroll-description)
 - [Development Platform](#computer-development-platform)
