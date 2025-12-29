@@ -17,7 +17,7 @@
 Simple Raspberry Pi Poco W web server using MicroPython on Thonny
 
 <p float="left">
- <img src="resource/BT Pico Gpio Sensor Expansion Board For Raspberry Pi Multiple Functional Interfaces.jpeg" width="200">
+ <img src="resource/BT Pico Gpio Sensor Expansion Board For Raspberry Pi Multiple Functional Interfaces.jpeg" width="600">
 </p>
 
 ## :computer: Development Platform
