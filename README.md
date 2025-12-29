@@ -18,6 +18,26 @@ Simple Raspberry Pi Poco W web server using MicroPython on Thonny
 ## :computer: Development Platform
 Program is coded on Thonny using MicroPython. I have tested on both MacBook Air and Raspberry Pi 5 running Thonny.
 
+1. Open Thonny and upload all the files in the repository onto Raspberry Pi Pico W. Program is using MicroPython.
+2. Open the file main.py
+3. Modify the line in main.py with your own WiFi SSID and password.
+   # Set up connection to WiFi
+   ssid = 'your own wifi ssid'
+   password = 'your own wifi password'
+5. Run main.py
+6. Example:
+       MPY: soft reboot
+       Connected
+       ip = 192.168.0.21
+       listening on ('0.0.0.0', 80)
+       [2025, 12, 29, 0, 4, 48, 26, 0]
+       (2025, 12, 29, 0, 12, 48, 26, 0)
+       (2025, 12, 29, 0, 12, 48, 26, 0)
+       Start time 2025-12-29 12:48:26
+8. Open web browser and type in the following:
+       http://192.168.0.21 (make sure it is not https)
+10. more
+    
 ## :iphone: Platform tested:
 I have tested my code on:
 - Raspberry Pi Pico W and a web browser (Chrome, Firefox,Safari)
