@@ -1,0 +1,55 @@
+<!DOCTYPE html><html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<style>html { font-family: Helvetica; display: inline-block; margin: 0px auto; text-align: center;}
+.buttonGreen { background-color: #4CAF50; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }
+.buttonRed { background-color: #D11D53; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
+</style>
+<title>ImageDump</title>
+<meta http-equiv="refresh" content="1">
+</head><body><center><h1>Image Dump</h1></center><br><br>
+<center><div style = "text-align:center;">
+<canvas style = "background-color:BLACK;" " id="ImageDump" width="270" height="270"" ></canvas>
+<script>
+    var canvas = document.getElementById("ImageDump");
+    if (canvas.getContext) {
+        var ctx = canvas.getContext('2d');
+        var row, column;
+        for(row=0;row<54;row++) {
+            for(column=0;column<54;column++) {
+                var random = Math.floor(Math.random() * 64);
+                ctx.fillStyle='#'+ random +random+random;    // color of fill
+                ctx.fillRect(5*row, 5*column, 5, 5); // create rectangle
+            }
+        }
+    }
+</script>
+</div></center>
+
+<center>
+<div style = "text-align:center;">
+<canvas id="DemoCanvas" width="270" height="270" style="border:1px solid #000000;"></canvas>
+<script>
+      var canvas = document.getElementById("DemoCanvas");
+      if (canvas.getContext) {
+          var ctx = canvas.getContext('2d');
+          var random = Math.floor(Math.random() * 64);
+          ctx.lineWidth = "2";
+          ctx.strokeStyle = "red";
+          ctx.strokeRect(5+random, 5+random, 50+random, 25+random);
+          ctx.strokeStyle = "blue";
+          ctx.strokeRect(20+random, 20, 120+random, 150);
+          ctx.strokeStyle = "green";
+          ctx.strokeRect(25+random, 50+random, 150, 90);
+      }
+</script>
+</div>
+</center>
+<p>%s<p>
+
+<p><a href="/">Control Panel</a></p>
+<p><a href="/log.txt" download="">Download the test file</a></p>
+<p>by <a href="https://peppe8o.com">peppe8o.com</a></p>
+</body></html>
+
+

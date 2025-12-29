@@ -1,0 +1,30 @@
+<!DOCTYPE html><html>
+<head><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<style>html { font-family: Helvetica; display: inline-block; margin: 0px auto; text-align: center;}
+.buttonGreen { background-color: #4CAF50; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }
+.buttonRed { background-color: #D11D53; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }
+.buttonYellow { background-color: #F0E53B; border: 2px solid #000000;; color: black; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }
+.buttonBlue { background-color: #1D1DD1; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }
+.buttonOrange { background-color: #7D0552; border: 2px solid #000000;; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; }text-decoration: none; font-size: 30px; margin: 2px; cursor: pointer;}
+</style>
+<title>Pi Pico W Webserver</title>
+</head><body><center><h1>Pi Pico W Webserver</h1></center><br>
+<form><center>
+<center> <button class="buttonGreen" name="led" value="on" type="submit">LED ON</button><br>
+<center> <button class="buttonRed" name="led" value="off" type="submit">LED OFF</button><br>
+<center> <button class="buttonYellow" name="sensor" value="read" type="submit">READ SENSOR</button><br>
+<center>%temp<br>
+<center>%humidity<br>
+<center>%detectsound<br>
+<center>%distance<br>
+<center> <button class="buttonBlue" <input type=button onClick="location.href='test.html'" value='image dump'>IMAGE DUMP</button>
+<center> <button class="buttonOrange" name="file" value="copy" type="submit">LOAD LOGFILE</button><br>
+</form><br>
+<center>%pop<br>
+<p><a href="/test2.txt" download="">Download the log file</a></p>
+
+<p>by <a href="https://abctravel-life.blogspot.com/">abctravel-life.blogspot.com</a></p>
+<center>%time_start<br>
+<center>%time_current<br>
+</body></html>
