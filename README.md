@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Description](#scroll-description)
 - [Development Platform](#computer-development-platform)
-- [Software Development](#iphone-software-development)
+- [Software Development](#floppy_disk-software-development)
 - [Platform Tested](#iphone-platform-tested)
 - [Buy Me a Coffee](#coffee-buy-me-a-coffee)
 - [License](#page_with_curl-license)
@@ -55,7 +55,7 @@ IMAGE DUMP - Still under development
 ~~~~
 12. More to come
 
-## :iphone: Software Development:
+## :floppy_disk: Software Development:
 This program is written in MicroPython:
 - Following are the GPIO connection for various sensors:
 ~~~~
