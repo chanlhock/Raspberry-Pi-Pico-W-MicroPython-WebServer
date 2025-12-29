@@ -16,6 +16,10 @@
 ## :scroll: Description
 Simple Raspberry Pi Poco W web server using MicroPython on Thonny
 
+<p float="left">
+ <img src="resource/BT Pico Gpio Sensor Expansion Board For Raspberry Pi Multiple Functional Interfaces.jpeg" width="200">
+</p>
+
 ## :computer: Development Platform
 Program is coded on Thonny using MicroPython. I have tested on both MacBook Air and Raspberry Pi 5 running Thonny.
 
