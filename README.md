@@ -7,6 +7,7 @@
 ## Table of Contents
 - [Description](#scroll-description)
 - [Development Platform](#computer-development-platform)
+- [Software Development](#iphone-software-development)
 - [Platform Tested](#iphone-platform-tested)
 - [Buy Me a Coffee](#coffee-buy-me-a-coffee)
 - [License](#page_with_curl-license)
@@ -44,7 +45,28 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
 <p float="left">
  <img src="resource/webbrowser.png" width="500">
 </p>
-12. 
+11. Functions & Features are:
+~~~~
+LED ON - Turn Pico W board LED ON
+LED OFF - Turn Pico W board LED OFF
+READ SENSOR - Acquire reading from Temperature, Humidity, Microphone and Proximity sensors
+IMAGE DUMP - Still under development
+~~~~
+12. More to come
+
+## :iphone: Software Development:
+This program is written in MicroPython:
+- Following are the GPIO connection for various sensors:
+~~~~
+# Board Pin assignment for this program
+# P28 - DHT temperature and humidity sensor
+# P27 - sound sensor module (ADC)
+# P16 - servo motor control (PWM)
+# P22 - buzzer (PWM)
+# P20 & P21 - oled display (I2C0)
+# P03 & P02 - ultrasonic distance sensor (P03 - Trigger, P02 - Echo)
+~~~~
+- 
     
 ## :iphone: Platform tested:
 I have tested my code on:
