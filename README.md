@@ -20,12 +20,15 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
 
 1. Open Thonny and upload all the files in the repository onto Raspberry Pi Pico W. Program is using MicroPython.
 2. Open the file main.py
-3. Modify the line in main.py with your own WiFi SSID and password.
+3. Modify the line in main.py with your own WiFi SSID and password. 
+~~~~
    # Set up connection to WiFi
    ssid = 'your own wifi ssid'
    password = 'your own wifi password'
+~~~~
 5. Run main.py
 6. Example:
+~~~~
        MPY: soft reboot
        Connected
        ip = 192.168.0.21
@@ -34,6 +37,7 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
        (2025, 12, 29, 0, 12, 48, 26, 0)
        (2025, 12, 29, 0, 12, 48, 26, 0)
        Start time 2025-12-29 12:48:26
+~~~~
 8. Open web browser and type in the following:
        http://192.168.0.21 (make sure it is not https)
 10. more
