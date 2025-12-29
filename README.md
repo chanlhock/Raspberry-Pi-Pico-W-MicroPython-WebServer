@@ -40,7 +40,11 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
 ~~~~
 8. Open web browser and type in the following:
        http://192.168.0.21 (make sure it is not https)
-10. more
+10. The following screen will be shown on the web browser:
+<p float="left">
+ <img src="resource/webbrowser.png" width="300">
+</p>
+12. 
     
 ## :iphone: Platform tested:
 I have tested my code on:
