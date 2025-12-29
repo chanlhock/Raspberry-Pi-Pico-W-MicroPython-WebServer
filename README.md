@@ -42,7 +42,7 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
        http://192.168.0.21 (make sure it is not https)
 10. The following screen will be shown on the web browser:
 <p float="left">
- <img src="resource/webbrowser.png" width="300">
+ <img src="resource/webbrowser.png" width="500">
 </p>
 12. 
     
