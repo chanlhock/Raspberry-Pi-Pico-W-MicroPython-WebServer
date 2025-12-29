@@ -16,7 +16,7 @@
 Simple Raspberry Pi Poco W web server using MicroPython on Thonny
 
 ## :computer: Development Platform
-Program is coded on Thonny using MicroPython.
+Program is coded on Thonny using MicroPython. I have tested on both MacBook Air and Raspberry Pi 5 running Thonny.
 
 ## :iphone: Platform tested:
 I have tested my code on:
