@@ -1,4 +1,4 @@
-# :mouse: Welcome to Raspberry-Pi-Pico-W-MicroPython-WebServer
+# :mouse: Welcome to Raspberry Pi Pico W MicroPython WebServer
 
 <p float="left">
  <img src="resource/1766981299.PNG" width="200">
