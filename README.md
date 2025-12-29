@@ -25,12 +25,14 @@ I have tested my code on:
 ## :coffee: Buy Me a Coffee
 If you appreciate my work, do support me by...<br>
 <a href="https://www.buymeacoffee.com/chanlhock" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  
+
 ## :page_with_curl: License
 ```
-This program is free software; you can redistribute it and/or modify it 
-under the terms of the GNU Lesser General Public License as published by the 
-Free Software Foundation; either version 2.1 of the License, or (at your option) 
-any later version.
-```
+This program is licensed under the GNU General Public License v3.0 
+Permissions of this strong copyleft license are conditioned on making  
+available complete source code of licensed works and modifications,  
+which include larger works using a licensed work, under the same  
+license. Copyright and license notices must be preserved. Contributors  
+provide an express grant of patent rights.
+
 See the [GNU General Public License](LICENSE) for more details.
