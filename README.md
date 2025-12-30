@@ -17,7 +17,7 @@
 Simple Raspberry Pi Poco W web server using MicroPython on Thonny
 
 <p float="left">
- <img src="resource/BT Pico Gpio Sensor Expansion Board For Raspberry Pi Multiple Functional Interfaces.jpeg" width="600">
+ <img src="resource/BT Pico Gpio Sensor Expansion Board For Raspberry Pi Multiple Functional Interfaces.jpeg" width="700">
 </p>
 
 ## :computer: Development Platform
@@ -47,7 +47,7 @@ Program is coded on Thonny using MicroPython. I have tested on both MacBook Air 
        http://192.168.0.21 (make sure it is not https)
 10. The following screen will be shown on the web browser:
 <p float="left">
- <img src="resource/webbrowser.png" width="500">
+ <img src="resource/webbrowser.png" width="700">
 </p>
 11. Functions & Features are:
 
