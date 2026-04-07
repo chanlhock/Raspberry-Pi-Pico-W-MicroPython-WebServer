@@ -1,8 +1,17 @@
 # :mouse: Welcome to Raspberry Pi Pico W MicroPython WebServer
 
-<p float="left">
+<p align="center">
  <img src="resource/1766981299.PNG" width="200">
 </p>
+
+<p align="center">
+<i><b>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</b></i><br><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ― Martin Fowler, Refactoring
+</p> 
 
 ## Table of Contents
 - [Description](#scroll-description)
